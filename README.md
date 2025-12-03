@@ -9,7 +9,6 @@ The analysis covers data cleaning, exploratory data analysis (EDA), salary compa
 - Department-wise insights  
 - Salary analysis (hourly vs monthly)  
 - Outlier detection  
-- Charts & visual reports
 
 ## Tech Stack
 Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook
